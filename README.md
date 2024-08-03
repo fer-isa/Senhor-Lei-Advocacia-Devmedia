@@ -5,4 +5,4 @@ O projeto da página web do Senhor Lei, proposto na Missão 6 da formação Fron
  ![print-projeto-concluido](https://github.com/user-attachments/assets/df1fd5d2-57e4-46fc-8e77-24e7d5c534c0)
 
 
- ### Projeto publicado no Vercel:
+ ### Projeto publicado no Vercel: https://senhor-lei-advocacia-devmedia.vercel.app/
